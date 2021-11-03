@@ -62,7 +62,7 @@ The player has only a limited number of lives. As long as the player has remaini
 In the upper right corner, two numbers indicate the current player's score and the level he's in. The upper centered number displays the high score of this player in that game. The remaining lives are indicated by a corresponding number of ship symbols in the upper left corner.  
 When starting the game, the button in the middle of the screen must be clicked on to begin the game. The button returns if the player has lost all his lives and enables him to restart the game by clicking on the button again.
 
-## Controls :arrow_down:
+## Controls
 
 Use the <kbd>&#8594;</kbd> and <kbd>&#8592;</kbd> arrow keys on your keyboard to navigate your ship in the wanted direction.
 To shoot bullets from the top of your ship, press <kbd>Space</kbd>.  
