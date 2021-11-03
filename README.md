@@ -2,11 +2,12 @@
 Arcade-like space shooter game written entirely in python
 
 *****
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/E.T.-Attack)
-![PyPI](https://img.shields.io/pypi/v/E.T.-Attack)
-![PyPI - Status](https://img.shields.io/pypi/status/E.T.-Attack)
-![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/E.T.-Attack)
-![GitHub](https://img.shields.io/github/license/sveneschlbeck/E.T.-Attack)
+![GitHub language count](https://img.shields.io/github/languages/count/sveneschlbeck/E.T.-Attack?color=pink)
+![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/E.T.-Attack?color=white)
+![GitHub search hit counter](https://img.shields.io/github/search/sveneschlbeck/E.T.-Attack/goto?color=brown)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/E.T.-Attack?color=azure)
+![GitHub repo size](https://img.shields.io/github/repo-size/sveneschlbeck/E.T.-Attack?color=orange)
+![GitHub last commit](https://img.shields.io/github/last-commit/sveneschlbeck/E.T.-Attack)
 *****
 
 ## Project description
