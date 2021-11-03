@@ -38,22 +38,22 @@ To play `E.T.-Attack`, navigate to the installation folder of the required modul
 
 The player is in control of the space ship at the bottom of the screen. This ship is able to navigate in two directions - right and left :left_right_arrow:. At the beginning of the game, a fleet of extraterrestrial UFOs is spawned on the screen, slowly ping-ponging towards the player's ship. The player's goal is to prevent any of the UFOs from either making it to the bottom of the screen or colliding with his own ship.  
 
-| ![game opener](https://github.com/sveneschlbeck/E.T.-Attack/blob/dev/images/game_start.png?raw=true) | 
+| ![game opener](https://github.com/sveneschlbeck/E.T.-Attack/blob/main/images/game_start.png?raw=true) | 
 |:--:| 
 | **Opening screen** |
 
 To destroy the enemy's UFOs, the player can shoot bullets from the top of his ship. If a bullet hits a UFO, the UFO disappears, decimating the enemy fleet. However, there are only three bullets allowed at the same time on the screen, preventing the player from storm firing.  
 
-![](https://github.com/sveneschlbeck/E.T.-Attack/blob/dev/images/player_shooting.png?raw=true)  |  ![](https://github.com/sveneschlbeck/E.T.-Attack/blob/dev/images/ufo_hit.png?raw=true)
+![](https://github.com/sveneschlbeck/E.T.-Attack/blob/main/images/player_shooting.png?raw=true)  |  ![](https://github.com/sveneschlbeck/E.T.-Attack/blob/main/images/ufo_hit.png?raw=true)
 :-------------------------:|:-------------------------:
 **Player shooting bullet**             |  **Bullet hits UFO**
-![](https://github.com/sveneschlbeck/E.T.-Attack/blob/dev/images/ufo_disappears.png?raw=true)  |  ![](https://github.com/sveneschlbeck/E.T.-Attack/blob/dev/images/bullet_number_limit.png?raw=true)
+![](https://github.com/sveneschlbeck/E.T.-Attack/blob/main/images/ufo_disappears.png?raw=true)  |  ![](https://github.com/sveneschlbeck/E.T.-Attack/blob/main/images/bullet_number_limit.png?raw=true)
 **UFO disappearing**             |  **Bullet number limit**
 
 If the player has managed to destroy all of the enemy's UFOs, a new fleet is spawned to keep the game running and the player enters a higher level. Each destroyed UFO increases the player's score. The higher the level, the more points a player gets for destroying enemies but enemy speed, ship speed and bullet speed also increase, thereby making the game more difficult.  
 The player has only a limited number of lives. As long as the player has remaining lives, the game goes on. If the last live is lost, it's `Game Over`.
 
-| ![game opener](https://github.com/sveneschlbeck/E.T.-Attack/blob/dev/images/lives_left.png?raw=true) | 
+| ![game opener](https://github.com/sveneschlbeck/E.T.-Attack/blob/main/images/lives_left.png?raw=true) | 
 |:--:| 
 | **Player has only two remaining lives** |
 
