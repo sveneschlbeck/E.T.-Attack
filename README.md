@@ -1,16 +1,15 @@
-# E.T.-Attack
-Arcade-like space shooter game written entirely in python
-
 *****
-![GitHub language count](https://img.shields.io/github/languages/count/sveneschlbeck/E.T.-Attack?color=pink)
-![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/E.T.-Attack?color=white)
-![GitHub search hit counter](https://img.shields.io/github/search/sveneschlbeck/E.T.-Attack/goto?color=brown)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/E.T.-Attack?color=azure)
-![GitHub repo size](https://img.shields.io/github/repo-size/sveneschlbeck/E.T.-Attack?color=orange)
-![GitHub last commit](https://img.shields.io/github/last-commit/sveneschlbeck/E.T.-Attack)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/E.T.-Attack)
+![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/E.T.-Attack)
+![GitHub](https://img.shields.io/github/license/sveneschlbeck/E.T.-Attack)
+![PyPI](https://img.shields.io/pypi/v/E.T.-Attack)
+![Wheel](https://img.shields.io/pypi/wheel/E.T.-Attack)
+![Language](https://img.shields.io/pypi/implementation/E.T.-Attack)
 *****
 
-## Project description
+[![E.T.-Attack logo](images/logo.png)](https://pypi.org/project/E.T.-Attack/)
+
+## Project Description
 
 A space shooter game - inspired by the legendary game `Space Invaders`.
 
