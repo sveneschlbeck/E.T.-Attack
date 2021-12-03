@@ -2,9 +2,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/E.T.-Attack)
 ![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/E.T.-Attack)
 ![GitHub](https://img.shields.io/github/license/sveneschlbeck/E.T.-Attack)
-![PyPI](https://img.shields.io/pypi/v/E.T.-Attack)
-![Wheel](https://img.shields.io/pypi/wheel/E.T.-Attack)
-![Language](https://img.shields.io/pypi/implementation/E.T.-Attack)
 *****
 
 [![E.T.-Attack logo](images/logo.png)](https://pypi.org/project/E.T.-Attack/)
