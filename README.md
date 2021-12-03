@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/sveneschlbeck/E.T.-Attack)
 *****
 
-[![E.T.-Attack logo](images/logo.png)](https://pypi.org/project/E.T.-Attack/)
+![E.T.-Attack logo](images/logo.png)
 
 ## Project Description
 
